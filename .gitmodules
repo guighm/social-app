@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:guighm/social-app-vue.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:guighm/social-app-aspnet.git
